@@ -1,5 +1,5 @@
-import express, { Request, Response } from "npm:express@4.18.2";
-const axios = require('axios');
+import express, { Request, Response } from "npm:express@4.19.2";
+import axios from "npm:axios@1.6.8"
 
 const app = express();
 
